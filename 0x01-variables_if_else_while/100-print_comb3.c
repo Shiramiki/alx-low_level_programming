@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
-/** 
-* Description: prints two digits combination
+/**
+ * main - Entyr point
+ * Description: prints two digits combination
  * Return: Always 0 (success)
  */
 int main(void)
